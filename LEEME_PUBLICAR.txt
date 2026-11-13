@@ -1,0 +1,22 @@
+Yolis Castillo
+Yolis Bibiana Castillo Gutiérrez
+EDICIÓN AMPLIADA · V2
+
+ABRIR
+Extrae todos los archivos y abre index.html. Conserva assets y todas las páginas en su lugar.
+
+PUBLICAR EN NETLIFY
+Entra en https://app.netlify.com/drop y arrastra esta carpeta completa. index.html debe aparecer directamente dentro de la carpeta, no en una segunda subcarpeta. No hay que instalar dependencias ni compilar. netlify.toml indica publish = ".".
+
+HERRAMIENTA
+Ficha de copropiedad y plan de acciones
+Registra la ficha de una copropiedad y sus acciones. Los indicadores de avance, pendientes y vencidas se calculan únicamente con las fechas y estados introducidos.
+
+Los datos locales no se sincronizan entre dispositivos. Exporta una copia para conservarlos.
+
+CONTACTO
+El correo abre la aplicación de email del visitante. Los enlaces opcionales de formulario y agenda se configuran en configuracion.js o con PERSONALIZAR_ENLACES.html del paquete general.
+
+DISEÑO
+Consultoría arquitectónica · azul y salvia
+Los estilos están en assets/styles.css. Las imágenes y fuentes están incluidas. Consulta RECURSOS_Y_LICENCIAS.txt.

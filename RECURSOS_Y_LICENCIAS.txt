@@ -1,0 +1,10 @@
+RECURSOS VISUALES Y TIPOGRÁFICOS
+
+Yolis Castillo
+
+Imagen editorial: generada específicamente para esta propuesta de diseño. Es una imagen conceptual; no representa evidencia de instalaciones, clientes, propiedades o trabajos reales del alumno.
+Archivo: assets/editorial.png
+
+Tipografías: subconjuntos latinos locales en formato WOFF, sin consultas a servidores de fuentes. Consulta los avisos y licencias completos en assets/fonts/LICENSES.txt.
+
+Dirección visual: Consultoría arquitectónica · azul y salvia.

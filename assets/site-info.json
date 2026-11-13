@@ -1,0 +1,16 @@
+{
+  "name": "Yolis Bibiana Castillo Gutiérrez",
+  "email": "yolita_18@hotmail.com",
+  "country": "Colombia",
+  "pages": [
+    "index.html",
+    "servicios.html",
+    "herramientas.html",
+    "contacto.html"
+  ],
+  "site_type": "Asesoría para copropiedades",
+  "tool": "Ficha de copropiedad y seguimiento de acciones",
+  "storage": "Datos locales en este navegador; exportación e importación JSON",
+  "external_links": "configuracion.js: enlaces opcionales ocultos si están vacíos",
+  "imagery": "Imagen editorial ilustrativa; no representa un proyecto realizado."
+}
